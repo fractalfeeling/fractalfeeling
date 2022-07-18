@@ -3,9 +3,9 @@ Hi! I'm Shyen, a student at 42 Adelaide.
 Below is a list of projects I have completed at 42.
 
 ### `Ring 0`
-* [Libft](https://github.com/fractalfeeling/42-Libft.git)[![lwee's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5pppwsq001109mdiigy33za/project/2460041)](https://github.com/JaeSeoKim/badge42)
+* [Libft](https://github.com/fractalfeeling/42-Libft.git) (125/100)
 
 ### `Ring 1`
-* [ft_printf]
-* [get_next_line]
-* [Born2beroot]
+* [ft_printf](https://github.com/fractalfeeling/42-ft_printf) (125/100)
+* [get_next_line](https://github.com/fractalfeeling/42-get_next_line)
+* Born2beroot (125/100)
