@@ -11,6 +11,9 @@ Below is a list of projects I have completed at 42.
 * [get_next_line](https://github.com/fractalfeeling/42-get_next_line) (125/100)
 * [Born2beRoot](https://github.com/fractalfeeling/42-Born2beRoot.git) (125/100)
 
+### `Ring 2`
+* [pipex](https://github.com/fractalfeeling/42-pipex.git) (125/100)
+
 ### `Side Projects`
 * [Australian Signals Directorate Coin Challenge](https://github.com/fractalfeeling/ASD75-Coin-Challenge)
 * [42 & Torrens University Code-A-Thon](https://github.com/fractalfeeling/42-Torrens-Codeathon)
